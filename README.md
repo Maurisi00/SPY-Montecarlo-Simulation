@@ -62,5 +62,4 @@ El proyecto está diseñado para ejecutarse en un entorno de Jupyter Notebook o 
 ## Resultados
 El modelo permite visualizar la dispersión de precios a un año vista y ofrece una estimación numérica del capital en riesgo. El módulo de Stress Testing demuestra cómo el VaR no es estático y aumenta significativamente en regímenes de alta volatilidad, evidenciando el riesgo de "colas pesadas" (fat tails) en los mercados financieros.
 
----
-*Nota: Este proyecto tiene fines puramente académicos y de modelización matemática. No constituye asesoramiento financiero.*
+
